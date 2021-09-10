@@ -3,4 +3,4 @@ Im doing my first steps in all these disciplines, so i can't colaborate in big p
 
 You can find in my GITHUB profile my institutional homeworks, testing projects, tools for make the institutional life easier and little personal projects.
 
-Can you find me in Twitter as @Devlumniom, I post there my #beginner_devblog, in other words you can follow my steps closely.
+Can you find me in Twitter as @Maskla_Devlu, I post there my #beginner_devblog, in other words you can follow my steps closely.
